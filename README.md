@@ -5,7 +5,6 @@
 ![DNS](https://img.shields.io/badge/DNS-Configured-4285F4)
 ![Group Policy](https://img.shields.io/badge/Group%20Policy-Configured-5C2D91)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-Lab-183A61?logo=virtualbox\&logoColor=white)
-![UTM](https://img.shields.io/badge/UTM-Lab-000000)
 
 ## 📌 Project Overview
 
