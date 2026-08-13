@@ -134,7 +134,7 @@ This demonstrates not only configuration skills, but also the ability to **inves
 
 This is an **individual project with collaborative scenario work**.
 
-Three participants — **[Mr. Hari Krishnan R K](https://github.com/harikrishnan-rk), [Mr. Manu P Nair](https://github.com/manunair16) and [Mr. Varun M Nair](https://github.com/varunmnair95)** — maintain their own independent lab environments and GitHub repositories.
+Three participants — **[Mr. Hari Krishnan R K](https://github.com/harikrishnan-rk), [Mr. Varun M Nair](https://github.com/varunmnair95) and [Mr. Manu P Nair](https://github.com/manunair16)  ** — maintain their own independent lab environments and GitHub repositories.
 
 The physical/lab environments are not shared. Collaboration takes place mainly during scenario-based cases through:
 
