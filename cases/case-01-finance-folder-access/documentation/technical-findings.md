@@ -1,5 +1,13 @@
 # Technical Findings — Case 01
 
+## Ticket Reference
+
+**Incident:** NB-INC-001
+
+**Issue:** Finance user unable to access \\SRV-DC01\Finance
+
+**Role:** IT Support / Systems Administrator
+
 ## Problem
 
 Sara Mitchell could authenticate to the domain and log into `FIN-PC01`, but access to:
