@@ -2,6 +2,8 @@
 
 ## 📌 Overview
 
+**Related Ticket:** `NB-INC-001`
+
 A Finance user reported that they could log in to `FIN-PC01` but could not access the Finance shared folder.
 
 This case was completed collaboratively by [Mr. Hari Krishnan R K](https://github.com/harikrishnan-rk), [Mr. Manu P Nair](https://github.com/manunair16), and [Mr. Varun M Nair](https://github.com/varunmnair95).
