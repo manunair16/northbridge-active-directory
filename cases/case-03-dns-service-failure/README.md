@@ -21,7 +21,7 @@ The issue was investigated to determine whether the problem was related to the c
 | DNS Server        | `SRV-DC01`             |
 | DNS Server IP     | `192.168.29.10`        |
 | Issue             | DNS Resolution Failure |
-| Status            | pending               |
+| Status            | Resolved               |
 
 ---
 
