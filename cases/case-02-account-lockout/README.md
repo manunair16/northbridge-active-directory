@@ -83,8 +83,6 @@ The account lockout and relevant Security event evidence were investigated.
 
 ## 🎯 Root Cause
 
-The root cause identified during the technical investigation was:
-
 **The user exceeded the maximum allowed number of failed login attempts.**
 
 ---
@@ -101,9 +99,7 @@ Kevin successfully authenticated to `OPS-PC01` after remediation.
 
 The successful validation evidence is maintained in this repository.
 
-📸 Evidence:
-
-[user-login-success-validation](validation/1-user-login-success-validation.png)
+📸 Evidence: [user-login-success-validation](validation/1-user-login-success-validation.png)
 
 ---
 
